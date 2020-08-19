@@ -1,4 +1,4 @@
-const container =const container = document.querySelector('.container');
+const container = document.querySelector('.container');
 
 // will draw in as node list (similar to an array)
 const seats = document.querySelectorAll('.row .seat:not(.occupied)');
